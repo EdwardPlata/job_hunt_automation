@@ -1,0 +1,4 @@
+requests==2.25.0
+lxml
+beautifulsoup4
+streamlit
